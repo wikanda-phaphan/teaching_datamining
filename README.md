@@ -122,6 +122,5 @@ Each chapter is available as a PDF in this repository.
 | -------------- | ------------------------------------- |
 | **Instructor** | Assoc. Prof. Dr. Wikanda Phaphan      |
 | **Email**      | wikanda.p@sci.kmutnb.ac.th            |
-| **Website**    | www.ajarnwikanda.com                  |
 | **Office**     | Department of Applied Statistics, Faculty of Applied Science, KMUTNB |
 | **Office Hours** | By appointment                      |
