@@ -87,7 +87,7 @@ Each chapter is available as a PDF in this repository.
 | # | File | Topic |
 |---|------|-------|
 | 1 | [textbook_datamining_ch1_final.pdf](textbook_datamining_ch1_final.pdf) | Introduction to Data Mining |
-| 2 | [textbook_datamining_ch2_updated_checked.pdf](textbook_datamining_ch2_updated_checked.pdf) | Data Preprocessing |
+| 2 | [textbook_datamining_ch2_updated_checked.pdf](textbook_datamining_ch2_updated_checked.pdf) | Data Integration |
 | 3 | [textbook_datamining_ch3_mathtype_checked.pdf](textbook_datamining_ch3_mathtype_checked.pdf) | Statistics in Data Mining |
 | 4 | [textbook_datamining_ch4_updated_checked.pdf](textbook_datamining_ch4_updated_checked.pdf) | Data Visualization |
 | 5 | [textbook_datamining_ch5_fixed_checked.pdf](textbook_datamining_ch5_fixed_checked.pdf) | Data Preprocessing |
