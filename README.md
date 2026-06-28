@@ -88,14 +88,14 @@ Each chapter is available as a PDF in this repository.
 |---|------|-------|
 | 1 | [textbook_datamining_ch1_final.pdf](textbook_datamining_ch1_final.pdf) | Introduction to Data Mining |
 | 2 | [textbook_datamining_ch2_updated_checked.pdf](textbook_datamining_ch2_updated_checked.pdf) | Data Preprocessing |
-| 3 | [textbook_datamining_ch3_mathtype_checked.pdf](textbook_datamining_ch3_mathtype_checked.pdf) | Association Rules Mining |
-| 4 | [textbook_datamining_ch4_updated_checked.pdf](textbook_datamining_ch4_updated_checked.pdf) | Classification |
-| 5 | [textbook_datamining_ch5_fixed_checked.pdf](textbook_datamining_ch5_fixed_checked.pdf) | Decision Trees and Ensemble Methods |
-| 6 | [textbook_datamining_ch6_updated.pdf](textbook_datamining_ch6_updated.pdf) | Regression and Prediction |
-| 7 | [textbook_datamining_ch7_mathtype.pdf](textbook_datamining_ch7_mathtype.pdf) | Clustering |
-| 8 | [textbook_datamining_ch8_ready.pdf](textbook_datamining_ch8_ready.pdf) | Anomaly Detection |
-| 9 | [textbook_datamining_ch9_mathtype.pdf](textbook_datamining_ch9_mathtype.pdf) | Text Mining |
-| 10 | [textbook_datamining_ch10_mathtype_v2.pdf](textbook_datamining_ch10_mathtype_v2.pdf) | Advanced Topics and Applications |
+| 3 | [textbook_datamining_ch3_mathtype_checked.pdf](textbook_datamining_ch3_mathtype_checked.pdf) | Statistics in Data Mining |
+| 4 | [textbook_datamining_ch4_updated_checked.pdf](textbook_datamining_ch4_updated_checked.pdf) | Data Visualization |
+| 5 | [textbook_datamining_ch5_fixed_checked.pdf](textbook_datamining_ch5_fixed_checked.pdf) | Data Preprocessing |
+| 6 | [textbook_datamining_ch6_updated.pdf](textbook_datamining_ch6_updated.pdf) | Classification |
+| 7 | [textbook_datamining_ch7_mathtype.pdf](textbook_datamining_ch7_mathtype.pdf) | Regression and Prediction |
+| 8 | [textbook_datamining_ch8_ready.pdf](textbook_datamining_ch8_ready.pdf) | Clustering |
+| 9 | [textbook_datamining_ch9_mathtype.pdf](textbook_datamining_ch9_mathtype.pdf) | Association Rule Mining |
+| 10 | [textbook_datamining_ch10_mathtype_v2.pdf](textbook_datamining_ch10_mathtype_v2.pdf) | Anomaly Detection |
 
 ---
 
