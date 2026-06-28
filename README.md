@@ -39,7 +39,7 @@ This course covers the fundamental concepts, techniques, and tools used in data 
 | Department    | Department of Applied Statistics, Faculty of Applied Science                  |
 | University    | King Mongkut's University of Technology North Bangkok (KMUTNB)               |
 | Contact       | wikanda.p@sci.kmutnb.ac.th                                                   |
-| Website       | [www.ajarnwikanda.com](http://www.ajarnwikanda.com)                          |
+
 
 ---
 
